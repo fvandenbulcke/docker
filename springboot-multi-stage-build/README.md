@@ -3,7 +3,7 @@ SpringBoot Docker Project!
 
 <p align="center">
   <a href="https://spring.io/guides/gs/spring-boot/">
-    <img src="../readme/spring-boot.png" height="100"/>
+    <img src="./readme/spring-boot.png" height="100"/>
   </a>
   <a href="https://www.docker.com/">
     <img src="https://www.docker.com/sites/default/files/vertical_large.png" height="100"/>
