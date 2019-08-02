@@ -1,0 +1,14 @@
+version: '2'
+
+services:
+
+  rabbitmq:
+    image: rabbitmq:3.7.17-management
+    ports:
+      - "8161:8161"
+      - "61616:61616"
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: rabbit
+      RABBITMQ_DEFAULT_PASS: rabbit
